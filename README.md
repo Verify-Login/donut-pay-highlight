@@ -1,6 +1,6 @@
 # Donut Pay Highlighter
 
-Client-side Fabric mod (Minecraft 1.21.4). When someone pays you more than $3M, that chat message is faded from black to orange.
+Client-side Fabric mod (Minecraft 1.21.11). When someone pays you more than $3M, that chat message is faded from black to orange.
 
 ## Build
 1. Install JDK 21 and Gradle.
