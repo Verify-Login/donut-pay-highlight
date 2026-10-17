@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "donutpayhighlighter",
+  "version": "${version}",
+  "name": "Donut Pay Highlighter",
+  "description": "Turns chat text orange and black when someone pays you over $3M.",
+  "authors": ["YourName"],
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.donutpay.DonutPayHighlighter"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
